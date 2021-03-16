@@ -1,24 +1,25 @@
-Raesfeld 
-Flughafen 
-Berlin 
-Bratwurst 
-Hauptstrasse 
-Brot 
-Gauss 
-Klimaanlage 
-Rammstein 
-Musik 
-Porsche 
-BMW 
-Biergarten 
-Ratskeller 
-Dirndel 
-Lederhose 
-Audi 
-Schloss 
-Munich 
-wettbewerbsfaehig 
-Mehlhase 
-Gebaeck 
-Baeckerei 
-Hund
+Raesfeld - Municipality in Germany
+Flughafen - Airport
+Berlin - The capital of Germany
+Bratwurst - Food: German saugage typically made from pork
+Hauptstrasse - Main road
+Brot - Loaf of bread
+Gauss - Carl Friedrich Gauss, German mathematician
+Klimaanlage - Air conditioner
+Rammstein - German heavy metal band
+Musik - Music
+Porsche - Motor vehicle brand
+BMW - Motor vehicle brand
+Biergarten - Beer garden
+Ratskeller - Bar or restaurant located in the basement of a city hall or nearby
+Dirndel - Clothing
+Lederhose - Leather pants
+Audi - Motor vehicle brand
+Schloss - Shut; close
+Munich - City in Germany
+wettbewerbsfaehig - Competitive
+Mehlhase - Flour bunny
+Gebaeck - Cookies; pastries
+Baeckerei - Bakery
+Hund - Dog; Canine
+
